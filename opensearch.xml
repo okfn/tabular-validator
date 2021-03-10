@@ -7,5 +7,5 @@
   <Image width="16" height="16" type="image/x-icon">https://framework.frictionlessdata.io/img/logo.png</Image>
   <Url type="text/html" method="get" template="https://framework.frictionlessdata.io/search?q={searchTerms}"/>
   <Url type="application/opensearchdescription+xml" rel="self" template="https://framework.frictionlessdata.io/opensearch.xml" />
-  <moz:SearchForm>https://framework.frictionlessdata.io</moz:SearchForm>
+  <moz:SearchForm>https://framework.frictionlessdata.io/</moz:SearchForm>
 </OpenSearchDescription>
